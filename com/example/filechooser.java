@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class filechoser {
+public class filechooser {
 
     public static void main(String[] args) {
         JFileChooser chooser = new JFileChooser();
